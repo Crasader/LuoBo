@@ -1,0 +1,32 @@
+<Solution>
+  <PropertyGroup Name="StartScene" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="bird.png" />
+        <Image Name="btn_adventure_normal_CN.png" />
+        <Image Name="btn_adventure_pressed_CN.png" />
+        <Image Name="btn_bg.png" />
+        <Image Name="btn_boss_normal_CN.png" />
+        <Image Name="btn_boss_pressed_CN.png" />
+        <Image Name="btn_help_normal.png" />
+        <Image Name="btn_help_pressed.png" />
+        <Image Name="btn_nest_normal_CN.png" />
+        <Image Name="btn_nest_pressed_CN.png" />
+        <Image Name="btn_setting_normal.png" />
+        <Image Name="btn_setting_pressed.png" />
+        <Image Name="carrot.png" />
+        <Image Name="cloud1.png" />
+        <Image Name="cloud2.png" />
+        <Image Name="leaf-1.png" />
+        <Image Name="leaf-2.png" />
+        <Image Name="leaf-3.png" />
+        <Image Name="mainbg.png" />
+        <Image Name="mainbg_CN.png" />
+        <Project Name="StartScene.csd" Type="Scene" />
+        <Image Name="weiboicon03_normal.png" />
+        <Image Name="weiboicon03_press.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
